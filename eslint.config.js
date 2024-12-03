@@ -16,7 +16,7 @@ export default [
   pluginJs.configs.recommended,
   {
     rules: {
-      "no-console": "warn",
+      "no-console": "error",
       "eqeqeq": "error",
       "curly": "error",
     },
